@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: ems-algasensors-temperature-processing
+server:
+  port: 8081

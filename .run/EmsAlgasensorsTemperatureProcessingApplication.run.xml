@@ -5,7 +5,7 @@
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/microservices/ems-algasensors-temperature-processing" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="com.algaworks.algasensors.ems_algasensors_temperature_processing.*" />
+        <option name="PATTERN" value="com.algaworks.algasensors.ems_algasensors_temperature_processing.common.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
