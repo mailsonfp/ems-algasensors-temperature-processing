@@ -1,5 +1,7 @@
 package com.algaworks.algasensors.ems_algasensors_temperature_processing;
 
+import com.algaworks.algasensors.ems_algasensors_temperature_processing.common.IdGenerator;
+import com.algaworks.algasensors.ems_algasensors_temperature_processing.common.UUIDv7Utils;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

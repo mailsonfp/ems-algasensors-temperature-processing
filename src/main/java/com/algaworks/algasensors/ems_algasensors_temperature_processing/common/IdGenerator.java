@@ -1,4 +1,4 @@
-package com.algaworks.algasensors.ems_algasensors_temperature_processing;
+package com.algaworks.algasensors.ems_algasensors_temperature_processing.common;
 
 import com.fasterxml.uuid.Generators;
 import com.fasterxml.uuid.impl.TimeBasedEpochRandomGenerator;
